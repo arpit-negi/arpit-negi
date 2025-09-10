@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Arpit Negi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">👋 Hi, I'm Arpit Negi</h1>
+<h3 align="center">Full Stack Developer | Backend & Cloud Enthusiast</h3>
 
+---
 
-- 🔭 I’m currently working on **Movie collection**
+### 🚀 About Me  
+I enjoy building **scalable web applications** and solving **backend engineering challenges**.  
+My recent work spans across **file sharing platforms, movie discovery apps, and AI-driven chat interfaces** — all deployed in production environments.  
 
-- 🌱 I’m currently learning **SQL**
+I like working on:  
+- 🔧 **Backend systems** with Node.js, Express, and SQL/NoSQL databases  
+- ⚡ **APIs & Integrations** (REST, OAuth2, JWT, third-party APIs)  
+- ☁️ **Cloud & Deployments** with Docker, Kubernetes, AWS, and CI/CD pipelines  
+- 🎨 Clean and responsive **UI/UX** with React, Next.js, and Tailwind  
 
-- 👯 I’m looking to collaborate on **Web based Projects**
+---
 
-- 🤝 I’m looking for help with **Backend**
+### 🔭 Featured Projects  
 
-- 💬 Ask me about **react**
+📦 **[Droply](https://droply-tan.vercel.app/sign-in)** – Secure File Sharing & Cloud Storage  
+Built a file sharing service with **OAuth2/JWT auth**, **chunked uploads**, and **Dockerized deployments** achieving 99% uptime.  
 
-- 📫 How to reach me **arpitnegi051@gmail.com**
+🎬 **[Movie Base](https://movie-base-inky.vercel.app/)** – Movie Search & Discovery  
+Designed a movie discovery app consuming **TMDb API** with **caching layers** for lower latency and **<1.2s load times**.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Icclz2Iij7ZvnXHyI060ZFTw48OYEbpQ/view?usp=sharing](https://drive.google.com/file/d/1Icclz2Iij7ZvnXHyI060ZFTw48OYEbpQ/view?usp=sharing)
+🤖 **[Gemini Clone](https://gemini-clone-git-main-arpits-projects-4080fc9f.vercel.app/)** – AI Chatbot Interface  
+Created an AI-powered chat app with **300+ concurrent sessions**, **optimistic UI**, and **smooth session persistence**.  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack  
+
+**Languages:** Java, C++, GoLang, JavaScript/TypeScript, Python, SQL  
+**Frontend:** React, Next.js, Tailwind CSS, Redux, Shadcn UI  
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, MySQL, Appwrite  
+**Cloud & Tools:** Docker, Kubernetes, AWS, Vercel, Git/GitHub, CI/CD  
+
+---
+
+### 📊 GitHub Stats  
+
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit-negi&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-negi&show_icons=true&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-negi&show_icons=true&locale=en&layout=compact" alt="arpit-negi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit-negi&show_icons=true&locale=en" alt="arpit-negi" /></p>
+### 🌐 Connect With Me  
+- 📫 **Email:** arpitnegi051@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/arpit-negi-3983bb231](https://www.linkedin.com/in/arpit-negi-3983bb231/)  
+- 🧑‍💻 **GitHub:** [github.com/arpit-negi](https://github.com/arpit-negi)  
+
+---
